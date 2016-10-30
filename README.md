@@ -1,5 +1,5 @@
 # maze-solver
-Processing project that generates a visualization of a maze and its solution.
+Processing project that generates a visualization of a maze and its solution.<br>
 https://github.com/hannahapuan/maze-solver
 
 <h2>Generating a Perfect Maze</h2>
