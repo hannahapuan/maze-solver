@@ -1,5 +1,6 @@
 # maze-solver
 Processing project that generates a visualization of a maze and its solution.
+https://github.com/hannahapuan/maze-solver
 
 <h2>Generating a Perfect Maze</h2>
 <img src= "http://www.astrolog.org/labyrnth/maze/cruiser1.gif"/>
@@ -16,3 +17,4 @@ http://stackoverflow.com/questions/9318534/creating-a-maze-solving-algorithm-in-
 http://www.astrolog.org/labyrnth/algrithm.htm
 https://processing.org/
 https://processing.org/reference/PImage_set_.html
+
