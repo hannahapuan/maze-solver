@@ -1,9 +1,8 @@
 # maze-solver
-<<<<<<< HEAD
 <b>Processing project that generates a visualization of a maze and its solution</b><br>
 =======
 Processing project that generates a visualization of a maze and its solution.<br>
->>>>>>> a4ef683a9aa3e31100ae046f4e057d60d50ab86f
+
 https://github.com/hannahapuan/maze-solver
 
 <h2>Generating a Perfect Maze</h2>
