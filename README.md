@@ -1,5 +1,5 @@
 # maze-solver
-Processing project that generates a visualization of a maze and solves it
+Processing project that generates a visualization of a maze and its solution.
 
 <h2>Generating a Perfect Maze</h2>
 <img src= "http://www.astrolog.org/labyrnth/maze/cruiser1.gif"/>
